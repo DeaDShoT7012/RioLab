@@ -1,5 +1,4 @@
 import React from 'react'
-import './Pagination.css';
 
 function Pagination({postPerPage,totalPosts,setcurrentPage,currentPage,paginate}) {
     let pageNumber = []
